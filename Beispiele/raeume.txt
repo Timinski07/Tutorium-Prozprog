@@ -1,0 +1,1 @@
+HW.303;Hoersaal;110;2HQ.007;Hoersaal;100;1HQ.205;Labor;25;1HW.209;Seminar;40;2
